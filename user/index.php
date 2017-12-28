@@ -17,7 +17,7 @@
           <div class="control-group">
             <div class="controls">
               <center>
-                <a href="forgot_password.php" class="list-inline">&nbsp;Forgotten password?</a>
+                <a href="forgot_password.php" class="list-inline">&nbsp;Forgotten password ?</a>
               </center>
             </div>
           </div>
